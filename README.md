@@ -23,6 +23,6 @@ Enhance model robustness with data augmentation
 
 👤 Author
 Nikhil Salunke
-Email: your.salunkenikhil468@gmail.com
+Email: your. salunkenikhil468@gmail.com
 GitHub: salunkenikhil10
 
